@@ -2,7 +2,7 @@
 
 A complete stock market backtesting engine built entirely with NumPy. This project is designed as a **learning resource** to master NumPy through practical financial applications.
 
-## 🎯 Purpose
+## Purpose
 
 This project teaches you to:
 - **Think in vectorized pipelines** instead of loops
@@ -29,7 +29,7 @@ backtester/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Navigate to the project
@@ -45,7 +45,7 @@ python test_strategy.py
 ```
 
 
-## 🧮 NumPy Concepts Cheat Sheet
+## NumPy Concepts Cheat Sheet
 
 | Concept | Function | Use Case |
 |---------|----------|----------|
@@ -80,9 +80,6 @@ python test_strategy.py
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-## 💼 Resume Line
-
-> Built a NumPy-based stock market backtesting engine implementing vectorized indicators, signal generation, portfolio simulation, and risk metrics without pandas or ML frameworks.
 
 ## 🔗 Skills Transfer
 
@@ -109,6 +106,3 @@ pip install numpy
 
 ---
 
-**Happy Learning! 🚀**
-
-Remember: If you're writing a loop in NumPy, there's probably a better way!
