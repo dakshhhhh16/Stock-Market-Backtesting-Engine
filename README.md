@@ -29,7 +29,7 @@ backtester/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Navigate to the project
