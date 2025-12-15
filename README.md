@@ -10,7 +10,7 @@ This project teaches you to:
 - **Learn real numerical finance** concepts
 - **Use NumPy like an engineer**, not a student
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 backtester/
