@@ -80,7 +80,7 @@ python test_strategy.py
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-## 💼 Resume Line
+## Resume Line
 
 > Built a NumPy-based stock market backtesting engine implementing vectorized indicators, signal generation, portfolio simulation, and risk metrics without pandas or ML frameworks.
 
