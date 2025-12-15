@@ -2,7 +2,7 @@
 
 A complete stock market backtesting engine built entirely with NumPy. This project is designed as a **learning resource** to master NumPy through practical financial applications.
 
-## 🎯 Purpose
+## Purpose
 
 This project teaches you to:
 - **Think in vectorized pipelines** instead of loops
