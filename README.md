@@ -45,7 +45,7 @@ python test_strategy.py
 ```
 
 
-## 🧮 NumPy Concepts Cheat Sheet
+## NumPy Concepts Cheat Sheet
 
 | Concept | Function | Use Case |
 |---------|----------|----------|
