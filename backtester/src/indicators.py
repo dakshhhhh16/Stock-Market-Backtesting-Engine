@@ -18,7 +18,7 @@ KEY NUMPY CONCEPTS YOU'LL LEARN:
 CRITICAL RULE: Handle the first element correctly!
     - Returns have length n-1 when computed from n prices
     - We often prepend 0 or NaN to maintain alignment
-    - Time alignment bugs are the #1 source of errors
+    - Time alignment bugs are the #1 source of errors  
 
 =============================================================================  
 """
