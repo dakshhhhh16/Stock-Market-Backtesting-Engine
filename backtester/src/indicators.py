@@ -24,7 +24,7 @@ CRITICAL RULE: Handle the first element correctly!
 """
 
 import numpy as np  
-from typing import Optional
+from typing import Optional  
 
 
 # =============================================================================
