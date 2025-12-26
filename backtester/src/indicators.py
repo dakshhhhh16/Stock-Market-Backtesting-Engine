@@ -11,7 +11,7 @@ KEY NUMPY CONCEPTS YOU'LL LEARN:
     - np.diff() for differences between consecutive elements
     - np.log() for logarithmic calculations
     - np.cumsum() and np.cumprod() for cumulative operations
-    - np.convolve() for rolling windows (SMA)
+    - np.convolve() for rolling windows (SMA)  
     - Vectorized EMA calculation
     - Broadcasting and array alignment
 
