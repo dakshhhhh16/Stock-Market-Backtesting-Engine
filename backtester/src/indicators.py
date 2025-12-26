@@ -20,7 +20,7 @@ CRITICAL RULE: Handle the first element correctly!
     - We often prepend 0 or NaN to maintain alignment
     - Time alignment bugs are the #1 source of errors
 
-=============================================================================
+=============================================================================  
 """
 
 import numpy as np  
