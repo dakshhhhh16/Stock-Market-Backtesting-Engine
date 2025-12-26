@@ -36,7 +36,7 @@ def simple_returns(prices: np.ndarray) -> np.ndarray:
     Calculate simple (arithmetic) returns from price series.
     
     FORMULA:
-        r[t] = (P[t] - P[t-1]) / P[t-1] = P[t]/P[t-1] - 1
+        r[t] = (P[t] - P[t-1]) / P[t-1] = P[t]/P[t-1] - 1  
     
     NUMPY LEARNING POINTS:
     -----------------------
