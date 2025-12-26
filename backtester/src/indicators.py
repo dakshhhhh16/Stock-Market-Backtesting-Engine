@@ -7,7 +7,7 @@ PURPOSE:
     1. Calculate returns from prices (MOST IMPORTANT - all metrics depend on this)
     2. Implement technical indicators using pure NumPy (no pandas!)
 
-KEY NUMPY CONCEPTS YOU'LL LEARN:
+KEY NUMPY CONCEPTS YOU'LL LEARN:  
     - np.diff() for differences between consecutive elements
     - np.log() for logarithmic calculations
     - np.cumsum() and np.cumprod() for cumulative operations
