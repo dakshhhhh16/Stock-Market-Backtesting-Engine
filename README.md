@@ -108,7 +108,3 @@ pip install numpy
 - [Investopedia - Technical Indicators](https://www.investopedia.com/terms/t/technicalindicator.asp)
 
 ---
-
-**Happy Learning! 🚀**
-
-Remember: If you're writing a loop in NumPy, there's probably a better way!
